@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python and OpenCV Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 👨‍💻 All of my projects are available at [Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 📫 How to reach me **shreeshkulkarni.201ee155@nitk.edu.in**
 
