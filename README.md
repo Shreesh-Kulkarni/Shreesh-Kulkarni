@@ -32,4 +32,4 @@
 <a href="https://jupyter.org/"><img alt="" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
 <a href="https://code.visualstudio.com/"><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://cdn.eduonix.com/assets/images/header_img/2020010211572811392.png" alt="pycharm" width="80" height="40"/> </a>
-<a href="https://www.gnu.org/software/octave/index" target="_blank"> <img src="logo.wine/a/logo/GNU_Octave/GNU_Octave-Logo.wine.svg" alt="pycharm" width="80" height="40"/> </a> <p>
+<a href="https://www.gnu.org/software/octave/index" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" alt="Gnu Octave" width="80" height="40"/> </a> <p>
