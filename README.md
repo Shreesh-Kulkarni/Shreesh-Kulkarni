@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreesh-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="shreesh-kulkarni" /> </p>
 
-- 🌱 I’m currently learning **Java ,C++, DSA and OpenCV with Python**
+- 🌱 I’m currently learning **Arduino, JAVA,C++, DSA and OpenCV with Python**
 
 - 👯 I’m looking to collaborate on **Python and OpenCV Projects**
 
