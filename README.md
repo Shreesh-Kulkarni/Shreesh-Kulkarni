@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Arduino, JAVA,C++, DSA and OpenCV with Python**
 
-- 👯 I’m looking to collaborate on **Python and OpenCV Projects**
+- 👯 I’m looking to collaborate on **Arduino ,Python and OpenCV Projects**
 
 - 📫 How to reach me **shreeshkulkarni.201ee155@nitk.edu.in**
 
