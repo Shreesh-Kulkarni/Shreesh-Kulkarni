@@ -34,3 +34,4 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://cdn.eduonix.com/assets/images/header_img/2020010211572811392.png" alt="pycharm" width="80" height="40"/> </a>
 <a href="https://www.gnu.org/software/octave/index" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" alt="Gnu Octave" width="80" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://content.arduino.cc/assets/arduino_logo_1200x630-01.png" alt="Arduino" width="80" height="40"/> </a> <p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreesh-kulkarni&show_icons=true&locale=en&layout=compact" alt="shreesh-kulkarni" /></p>
