@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreesh Kulkarni</h1>
+
 - 🌱 I’m currently learning **Arduino, Embedded Systems,JAVA,C++, DSA and OpenCV with Python**
 
 - 👯 I’m looking to collaborate on **Arduino ,Python and OpenCV Projects**
