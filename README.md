@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shreesh Kulkarni</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreesh-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="shreesh-kulkarni" /> </p>
 
 - 🌱 I’m currently learning **Arduino, Embedded Systems,JAVA,C++, DSA and OpenCV with Python**
