@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreesh Kulkarni</h1>
-- 🔭 I’m currently working on ** [Car_Black_BoxSystem](https://github.com/Shreesh-Kulkarni/Car-Black-Box) **
+- 🔭 I’m currently working on [Car_Black_BoxSystem](https://github.com/Shreesh-Kulkarni/Car-Black-Box)
 
 - 🌱 I’m currently learning **Arduino, Embedded Systems,JAVA,C++, DSA and OpenCV with Python**
 
