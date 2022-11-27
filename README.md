@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreesh Kulkarni</h1>
+I'm currently working as an Intern for Radboards, an electric vehicle startup in Bangalore.
 
 - 🌱 I’m currently learning **STM32,PIC16XXXSeries,IoT,Digital Design(Verilog HDL) and Xilinx FPGA Programming**
 
