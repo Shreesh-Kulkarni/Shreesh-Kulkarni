@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreesh Kulkarni</h1>
 
-- 🌱 I’m currently learning **Arduino, Embedded Systems for Electric Vehicles,JAVA,C++, DSA and OpenCV with Python**
+- 🌱 I’m currently learning **STM32,PIC16XXXSeries,IoT,Digital Design(Verilog HDL) and Xilinx FPGA Programming**
 
-- 👯 I’m looking to collaborate on **Arduino,Embedded Programming,Python and OpenCV Projects**
+- 👯 I’m looking to collaborate on **Microchip PICs,FPGAs,IoT,Embedded Programming and Python projects**
 
 - 📫 How to reach me **shreeshkulkarni.201ee155@nitk.edu.in**
 
