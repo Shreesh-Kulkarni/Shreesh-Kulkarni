@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreesh Kulkarni</h1>
-I'm currently working as an Intern for Redwood EDA, a startup based in Massachusets, USA.
+I'm currently working as a Computer Architecture Intern for Redwood EDA, a startup based in Massachusets, USA.
 
 - 🌱 I’m currently learning **RISC-V, TL-Verilog,STM32,Digital Design(Verilog HDL) and Xilinx FPGA Programming**
 
