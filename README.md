@@ -5,7 +5,7 @@ I'm currently working as a Computer Architecture Intern for Redwood EDA, a start
 
 - 👯 I’m looking to collaborate on **Microchip PICs,FPGAs,RISC-V,Embedded Programming and Computer Architecture projects**
 
-- 📫 How to reach me **shreeshkulkarni.201ee155@nitk.edu.in**
+- 📫 How to reach me **kshreesh5@gmail.com** or my college email - **shreeshkulkarni.201ee155@nitk.edu.in**
 
 You can connect with me on LinkedIn, or view my resume - [here.](https://linktr.ee/shreesh_kulkarni)
 
