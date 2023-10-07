@@ -1,25 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shreesh Kulkarni</h1>
 I'm currently working as a Computer Architecture Intern for Redwood EDA, a startup based in Massachusets, USA.
 
-- 🌱 I’m currently learning **RISC-V, TL-Verilog,STM32,Digital Design(Verilog HDL) and Xilinx FPGA Programming**
+- 🌱 I’m currently learning **RISC-V, TL-Verilog,Digital Design(Verilog HDL) and Xilinx FPGA Programming**
 
-- 👯 I’m looking to collaborate on **Microchip PICs,FPGAs,RISC-V,Embedded Programming and Python projects**
+- 👯 I’m looking to collaborate on **Microchip PICs,FPGAs,RISC-V,Embedded Programming and Computer Architecture projects**
 
 - 📫 How to reach me **shreeshkulkarni.201ee155@nitk.edu.in**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shreeshkulkarni44914515777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreeshkulkarni44914515777" height="30" width="40" /></a>
-  
-<a href="https://instagram.com/shreeshiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreeshiano" height="30" width="40" /></a>
-  
-</p>
+You can connect with me on LinkedIn, or view my resume - [here.](https://linktr.ee/shreesh_kulkarni)
 
 ## 👨‍💻 Languages
 <a href="https://www.python.org/"><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-<a href=""><img alt="" src="https://camo.githubusercontent.com/891c1fd9d2ab2adf1053e8514f469b94049769ccd9d2765c8e06e9c1b6da1b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Verilog-00000F?style=for-the-badge&logo=verilog&logoColor=white" /></a>
 
