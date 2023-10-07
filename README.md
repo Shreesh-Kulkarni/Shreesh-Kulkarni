@@ -14,7 +14,7 @@ You can connect with me on LinkedIn, or view my resume - [here.](https://linktr.
 <a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Verilog-00000F?style=for-the-badge&logo=verilog&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/RISCV-Assembly-00000F?style=for-the-badge&logo=RISCV-Assembly&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/RISCVAssembly-00000F?style=for-the-badge&logo=RISCVAssembly&logoColor=white" /></a>
 
 
 ## 🔧 Tools
