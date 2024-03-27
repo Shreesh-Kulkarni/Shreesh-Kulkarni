@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreesh Kulkarni</h1>
-I'm currently working as a Computer Architecture Intern for Redwood EDA, a startup based in Massachusets, USA.
+I'm currently working with OpenHW Group, RISC-V International and The Linux Foundation on the CORE-V Wally Project. Our team aims to bring Wally to TRL-5 and improve overall performance of the RISC-V CPU.
 
-- 🌱 I’m currently learning **RISC-V, TL-Verilog,Digital Design(Verilog HDL) and Formal Verification**
+- 🌱 I’m currently learning **RISC-V,SystemVerilog,Digital Design(Verilog HDL) and Formal Verification**
 
 - 👯 I’m looking to collaborate on **Microchip PICs,FPGAs,RISC-V,Embedded Programming and Computer Architecture projects**
 
