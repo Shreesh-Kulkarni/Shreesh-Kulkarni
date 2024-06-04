@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreesh Kulkarni</h1>
+<h1 align="center">Hi 👋, I'm Shreesh Kulkarni, a passionate RISC-V Microarchitecture Researcher</h1>
 I'm currently working with OpenHW Group, RISC-V International and The Linux Foundation on the CORE-V Wally Project. Our team aims to bring Wally to TRL-5 and improve overall performance of the RISC-V CPU.
 
 - 🌱 I’m currently learning **RISC-V,SystemVerilog,Digital Design(Verilog HDL) and Formal Verification**
